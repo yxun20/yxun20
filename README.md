@@ -25,7 +25,7 @@
 ### [2022 대한민국공군 해커톤 정보화기획참모부장상(총 180여팀 참가 중 9위, 팀장)](https://n.news.naver.com/mnews/article/001/0013559028?sid=100)
 ## 🖳 Project
 ### 데이터 분석을 통한 사격훈련 정교 맞춤 피드백 솔루션
-### 공군본부, 한국과학기술원, 대전창조경제혁신센터 참여
+### -공군본부, 한국과학기술원, 대전창조경제혁신센터 참여
 <!--
 **yxun20/yxun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
