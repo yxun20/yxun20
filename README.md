@@ -26,6 +26,9 @@
 ## 🖳 Project
 ### 데이터 분석을 통한 사격훈련 정교 맞춤 피드백 솔루션
 ### -공군본부, 한국과학기술원, 대전창조경제혁신센터 참여
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s_yxun)](https://solved.ac/s_yxun/)
+
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 <!--
 **yxun20/yxun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
