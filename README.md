@@ -7,7 +7,7 @@
 ## :mortar_board: Education
 ### [단국대학교](https://dankook.ac.kr/)  모바일시스템공학과 (2020 - )
 ##  :clipboard: Experience
-### [SAMSUNG 주니어소프트웨어아카데미](https://www.juniorsoftwareacademy.com/) 수료
+### [SAMSUNG Junior Software Academy](https://www.juniorsoftwareacademy.com/) 수료
 ### [단국대학교 소프트웨어美 플러스(SWUP+) 창업팀](https://swcu.dankook.ac.kr/web/swcup/-20) 모들 팀장 (2020)
 ### [대한민국 공군](https://rokaf.airforce.mil.kr/sites/airforce/index.do) 보안체계관리특기병 복무(2021 - 2022)
 ### 2022 [국방스타트업챌린지 공군 대표팀](https://n.news.naver.com/mnews/article/008/0004756870?sid=102)(팀장) 선발 (2022 도전 K-스타트업 산하 대회)
