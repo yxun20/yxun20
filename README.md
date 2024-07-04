@@ -22,7 +22,7 @@
 ##  🌱 Certificate
 ### [University of New Mexico](https://www.unm.edu/)(USA) CELAC 수료
 ### Kickstart asia 창업 교육 수료
-### 중소벤처기업부 스타트업 창업 캠프 수료
+### 중소벤처기업부 주관) 스타트업 창업 인재 캠프 수료
 ## 🖳 Project
 ### 데이터 분석을 통한 사격훈련 정교 맞춤 피드백 솔루션
 ### -공군본부, 한국과학기술원, 대전창조경제혁신센터 참여
