@@ -13,6 +13,8 @@
 ### 2022 [국방스타트업챌린지 공군 대표팀](https://n.news.naver.com/mnews/article/008/0004756870?sid=102)(팀장) 선발 (2022 도전 K-스타트업 산하 대회)
 ### [한국지도자육성장학재단](https://www.kosffl.or.kr/) 54기 장학생(전국 각 대학교당 2명의 추천인들 중 100명의 장학생에 선정)
 ### [SAMSUNG Open Source Companions](https://opensource.samsung.com/community/companions/companionsMemberList) 5기
+### [Samsung Developer Conference 2024(SDC 24)](https://developer.samsung.com/conference/sdc23) Sessions 발표
+
 ##  🏆 Awards
 ### 정보통신기획평가원 SW창업공모전 입상(팀장)
 ### [2022 영남권 공군창업경진대회 대상(팀장)](https://n.news.naver.com/mnews/article/015/0004703563?sid=100)
@@ -27,7 +29,6 @@
 ### 데이터 분석을 통한 사격훈련 정교 맞춤 피드백 솔루션
 ### -공군본부, 한국과학기술원, 대전창조경제혁신센터 참여
 ## [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s_yxun)](https://solved.ac/s_yxun/)
-## [Samsung Developer Conference 2024(SDC 24)](https://developer.samsung.com/conference/sdc23) Sessions 발표
 <!--
 **yxun20/yxun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
