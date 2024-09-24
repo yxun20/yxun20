@@ -15,7 +15,7 @@
 ### 단국대학교 창업지원단 창업팀 팀장
 ### [SAMSUNG Open Source Companions](https://opensource.samsung.com/community/companions/companionsMemberList) 5기
 ### [TMAX ACADEMY TABA](http://taba.kr/) 6기
-### [차세대 공학리더 YEHS](https://www.naekyehs.org/)
+### 한국공학한림원 [차세대 공학리더](https://www.naekyehs.org/) 선정
 
 ##  🏆 Awards
 ### 정보통신기획평가원 SW창업공모전 입상(팀장)
