@@ -32,7 +32,7 @@
 ### -공군본부, 한국과학기술원, 대전창조경제혁신센터 참여
 ### [SAMSUNG Open Source CONference Global : India](https://opensource.samsung.com/community/soscon) 참여
 ### [Samsung Tech Blog](https://techblog.samsung.com/blog/article/45) 집필
-### 삼성 테크블로그 활성화 TF팀
+### 삼성 테크블로그 활성화 T/F팀
 ## [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s_yxun)](https://solved.ac/s_yxun/)
 <!--
 **yxun20/yxun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
