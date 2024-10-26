@@ -31,7 +31,8 @@
 ### 데이터 분석을 통한 사격훈련 정교 맞춤 피드백 솔루션
 ### -공군본부, 한국과학기술원, 대전창조경제혁신센터 참여
 ### [SAMSUNG Open Source CONference Global : India](https://opensource.samsung.com/community/soscon) 참여
-### [Samsung Tech Blog](https://techblog.samsung.com/blog/article/45) Session 3,4 Generative AI: Ploneering the Monile and Wearable Feontier, How Open Source Empowers Organizations Review 집필
+### [Samsung 공식 Tech Blog](https://techblog.samsung.com/blog/article/45) 
+### Session 3,4 Generative AI: Ploneering the Monile and Wearable Feontier, How Open Source Empowers Organizations Review 집필
 ### 삼성 테크블로그 활성화 T/F팀
 ## [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s_yxun)](https://solved.ac/s_yxun/)
 <!--
