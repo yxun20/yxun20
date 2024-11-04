@@ -16,6 +16,7 @@
 ### [SAMSUNG Open Source Companions](https://opensource.samsung.com/community/companions/companionsMemberList) 5기
 ### [TMAX ACADEMY TABA](http://taba.kr/) 6기
 ### 한국공학한림원 [차세대 공학리더](https://www.naekyehs.org/) 선정
+### [Samsung Developer Conference Korea 2024](https://www.sdc-korea.com/session/SN2024101800031) Session Presenter - Opensource Session
 
 ##  🏆 Awards
 ### 정보통신기획평가원 SW창업공모전 입상(팀장)
