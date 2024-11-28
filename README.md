@@ -24,6 +24,7 @@
 ### [2022 공군창업경진대회 인사참모부장상(총 240여팀 참가 중 10위, 팀장)](https://n.news.naver.com/mnews/article/015/0004709507?sid=100)
 ### [2022 도전 K-스타트업 국방부리그 본선 진출(팀장)](https://kookbang.dema.mil.kr/newsWeb/20220812/16/BBSMSTR_000000010021/view.do)
 ### [2022 대한민국공군 해커톤 정보화기획참모부장상(총 180여팀 참가 중 9위, 팀장)](https://n.news.naver.com/mnews/article/001/0013559028?sid=100)
+### 2024 단국대학교 해커톤 경진대회 최우수상
 ##  🌱 Certificate
 ### [University of New Mexico](https://www.unm.edu/)(USA) CELAC 수료
 ### Kickstart asia 창업 교육 수료
