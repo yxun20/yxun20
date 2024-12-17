@@ -36,8 +36,7 @@
 ### [개인 입맛 분석 AI 모델에 따른 원두 맞춤 추천 서비스 및 원두 판매 이커머스 플랫폼](https://sunny-whitefish-5a5.notion.site/AI-15b2d83106ae81dbb9f5d7b8036de7bc)
 ### [생성형 AI 기반 부동산 계약서 검토 및 관련 정보 제공 서비스](https://sunny-whitefish-5a5.notion.site/AI-15b2d83106ae8158bf72c6cdf39cd6e1)
 ### [주파수 분석 및 포즈 트래킹을 통한 스마트 아이 모니터링 시스템](https://sunny-whitefish-5a5.notion.site/15b2d83106ae8135babbc222a12176d7)
-### [SAMSUNG Open Source CONference Global : India](https://opensource.samsung.com/community/soscon) 참여
-### [Samsung Tech Blog](https://techblog.samsung.com/blog/article/45) 집필 
+### [Samsung Tech Blog](https://techblog.samsung.com/blog/article/45) 집필 및 기고 2건
 ### -Generative AI: Ploneering the Monile and Wearable Feontier, How Open Source Empowers Organizations Review
 ## [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s_yxun)](https://solved.ac/s_yxun/)
 <!--
@@ -68,7 +67,7 @@ Kickstart asia 창업 교육 수료
 데이터 분석을 통한 사격훈련 정교 맞춤 피드백 솔루션
 공군본부, 한국과학기술원, 대전창조경제혁신센터 참여
 ### [SAMSUNG Developer Conference 2024(SDC 24)](https://developer.samsung.com/conference/sdc23) Sessions 발표 초청
-
+### [SAMSUNG Open Source CONference Global : India](https://opensource.samsung.com/community/soscon) 참여
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
