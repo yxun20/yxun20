@@ -38,7 +38,7 @@
 ### [주파수 분석 및 포즈 트래킹을 통한 스마트 아이 모니터링 시스템](https://sunny-whitefish-5a5.notion.site/15b2d83106ae8135babbc222a12176d7)
 ### [Samsung Tech Blog](https://techblog.samsung.com/) 집필 및 기고 2건
 ### -[Generative AI: Ploneering the Monile and Wearable Feontier, How Open Source Empowers Organizations Review](https://techblog.samsung.com/blog/article/45)
-### -Smart and Secure On-Device AI Technology(https://techblog.samsung.com/blog/article/52)
+### -[Smart and Secure On-Device AI Technology](https://techblog.samsung.com/blog/article/52)
 ## [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s_yxun)](https://solved.ac/s_yxun/)
 <!--
 **yxun20/yxun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
