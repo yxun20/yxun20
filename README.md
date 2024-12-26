@@ -5,7 +5,7 @@
  <br/>
 
 ## :mortar_board: Education
-### [단국대학교](https://dankook.ac.kr/)  모바일시스템공학과 (2020 - )
+### [단국대학교](https://dankook.ac.kr/)  모바일시스템공학과 (2020 - ) GPA (4.18/4.5)
 ##  :clipboard: Experience
 ### [SAMSUNG Junior Software Academy](https://www.juniorsoftwareacademy.com/) 수료
 ### [단국대학교 소프트웨어美 플러스(SWUP+) 창업팀](https://swcu.dankook.ac.kr/web/swcup/-20) 모들 팀장 (2020)
