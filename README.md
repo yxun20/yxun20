@@ -42,14 +42,10 @@
 ### -[Smart and Secure On-Device AI Technology](https://techblog.samsung.com/blog/article/52)
 ## [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s_yxun)](https://solved.ac/s_yxun/)
 ## 🧑‍💻 Tech Stack
-### Language
-### Java, Typescript, Javascript, C, C++, Python
-### Framework & Library
-### React, Springboot, Node.js, Tailwind CSS
-### Database
-### MySQL
-### Others
-### Github, Docker, Amazon AWS
+### Language - Java, Typescript, Javascript, C, C++, Python
+### Framework & Library - React, Springboot, Node.js, Tailwind CSS
+### Database - MySQL
+### Others - Github, Docker, Amazon AWS
 <!--
 **yxun20/yxun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
