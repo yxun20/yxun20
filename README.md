@@ -17,7 +17,7 @@
 ### [TMAX ACADEMY TABA](http://taba.kr/) 6기
 ### 한국공학한림원 [차세대 공학리더](https://www.naekyehs.org/) 선정
 ### [Samsung Developer Conference Korea 2024](https://www.sdc-korea.com/session/SN2024101800031) Session Presenter - Opensource Session
-### Undergraduate Researcher Student at AI Model Optimization and Intelligent Systems Lab (2024–)
+### Undergraduate Researcher Student At Intelligent Mobile Computing Lab (2024–)
 ### TTA 한국정보통신기술협회 소프트웨어 품질 인증팀 인턴 (2025.01-)
 ##  🏆 Awards
 ### 정보통신기획평가원 SW창업공모전 입상(팀장)
