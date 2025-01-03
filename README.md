@@ -18,7 +18,7 @@
 ### 한국공학한림원 [차세대 공학리더](https://www.naekyehs.org/) 선정
 ### [Samsung Developer Conference Korea 2024](https://www.sdc-korea.com/session/SN2024101800031) Session Presenter - Opensource Session
 ### Undergraduate Researcher Student, Intelligent Mobile Computing Lab (2024–)
-### TTA 한국정보통신기술협회 글로벌 소프트웨어 융합인증팀 인턴 (2025.01-)
+### TTA 한국정보통신기술협회 글로벌소프트웨어융합인증팀 인턴 (2025.01-)
 ##  🏆 Awards
 ### 정보통신기획평가원 SW창업공모전 입상(팀장)
 ### [2022 영남권 공군창업경진대회 대상(팀장)](https://n.news.naver.com/mnews/article/015/0004703563?sid=100)
