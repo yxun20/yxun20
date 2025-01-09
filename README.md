@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9be7ff,100:86a8e7&height=190&section=header&text=YeongJun's%20Github&fontSize=48&fontColor=5bc8fa&fontAlignY=40&animation=twinkling)
 ## 안녕하세요 성영준입니다. 👋
-<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyxun20&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="s_yxun20@naver.com"> <img src="https://img.shields.io/badge/cgumgek8@dankook.ac.kr-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:swiftie1230@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 
 ## :mortar_board: Education
 **단국대학교 모바일시스템공학과 (2020 - )** 
