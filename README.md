@@ -1,6 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:eeb8c2,100:EF6B98&height=190&section=header&text=YeongJun's%20Github&fontSize=48&fontColor=f8689d&fontAlignY=40&animation=twinkling)
 ## 안녕하세요 성영준입니다. 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seong%20YeongJun&fontSize=90)
-
  <br/>
  <br/>
 
@@ -95,6 +94,7 @@ GPA (4.18/4.5)
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=ffffff"/>
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyxun20&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:eeb8c2,100:EF6B98&height=130&section=footer&fontSize=60&fontColor=f8689d&fontAlignY=45&animation=twinkling)
 <!--
 **yxun20/yxun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
