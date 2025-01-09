@@ -32,6 +32,14 @@
 ### Kickstart asia 창업 교육 수료
 ### 중소벤처기업부 스타트업 창업 인재 캠프 수료
 ## 🖳 Project
+| 프로젝트명 | 설명 | 깃허브 |
+|------------|------|--------|
+| **모들** | 부동산 검색 및 상권 분석 서비스 | [보기](https://sunny-whitefish-5a5.notion.site/15b2d83106ae81bcbfdaef1db3f76f5b) |
+| **PENNE** | GAN기술을 이용한 가상모델 생성 및 가상피팅 솔루션 | [보기](https://sunny-whitefish-5a5.notion.site/GAN-15b2d83106ae81b0a5daf3bb3b7c9ec4) |
+| **공군 사격 도우미** | 데이터 분석 통한 사격 훈련 정교 맞춤 피드백 솔루션 | [보기](https://sunny-whitefish-5a5.notion.site/15b2d83106ae8162b600d8fb8278ed66) |
+| **Roast Studio** | 개인 입맛 분석 AI 모델에 따른 원두 맞춤 추천 서비스 및 원두 판매 이커머스 플랫폼 | [보기](https://sunny-whitefish-5a5.notion.site/AI-15b2d83106ae81dbb9f5d7b8036de7bc) |
+| **나무** | 생성형 AI 기반 부동산 계약서 검토 및 관련 정보 제공 서비스 | [보기](https://sunny-whitefish-5a5.notion.site/AI-15b2d83106ae8158bf72c6cdf39cd6e1) |
+| **딩글** | 주파수 분석 및 포즈 트래킹을 통한 스마트 아이 모니터링 시스템 | [보기](https://sunny-whitefish-5a5.notion.site/15b2d83106ae8135babbc222a12176d7) |
 ### [부동산 검색 및 상권 분석 서비스](https://sunny-whitefish-5a5.notion.site/15b2d83106ae81bcbfdaef1db3f76f5b)
 ### [GAN기술을 이용한 가상모델 생성 및 가상피팅 솔루션](https://sunny-whitefish-5a5.notion.site/GAN-15b2d83106ae81b0a5daf3bb3b7c9ec4)
 ### [데이터 분석 통한 사격 훈련 정교 맞춤 피드백 솔루션](https://sunny-whitefish-5a5.notion.site/15b2d83106ae8162b600d8fb8278ed66)
