@@ -77,8 +77,8 @@ GPA (4.18/4.5)
 **[Samsung Tech Blog](https://techblog.samsung.com/) 집필 및 기고 2건**
 | 기사명 | 출처 | 보기 |
 |------------|------|--------|
-| **Generative AI: Ploneering the Monile and Wearable Feontier, How Open Source Empowers Organizations Review** | Samsung Tech Blog, September 19, 2024 | [보기](https://techblog.samsung.com/blog/article/45) |
-| **Smart and Secure On-Device AI Technology** | Samsung Tech Blog, December 11, 2024 | [보기](https://techblog.samsung.com/blog/article/52) |
+| **Generative AI: Ploneering the Monile and Wearable Feontier Review** | Samsung Tech Blog, September 19, 2024 | [보기](https://techblog.samsung.com/blog/article/45) |
+| **Smart and Secure On-Device AI Technology Review** | Samsung Tech Blog, December 11, 2024 | [보기](https://techblog.samsung.com/blog/article/52) |
 
 ## [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s_yxun)](https://solved.ac/s_yxun/)
 ## 🧑‍💻 Tech Stack
