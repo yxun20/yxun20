@@ -20,6 +20,15 @@
 ### Undergraduate Researcher Student, Intelligent Mobile Computing Lab (2024–)
 ### TTA 한국정보통신기술협회 글로벌소프트웨어융합인증팀 인턴 (2025.01-)
 ##  🏆 Awards
+| 대회 명 | 상훈 | 뉴스 기사 |
+|------------|------|--------|
+| **정보통신기획평가원 SW창업공모전** | **입상(팀장)** |  |
+| **2022 영남권 공군창업경진대회** | **대상(팀장)** | [기사 링크](https://n.news.naver.com/mnews/article/015/0004703563?sid=100) |
+| **2022 공군창업경진대회** | **인사참모부장상(총 240여팀 참가 중 10위, 팀장)** | [기사 링크](https://n.news.naver.com/mnews/article/015/0004709507?sid=100) |
+| **2022 도전 K-스타트업 국방부리그** | **본선 진출(팀장)**| [기사 링크](https://kookbang.dema.mil.kr/newsWeb/20220812/16/BBSMSTR_000000010021/view.do) |
+| **2022 대한민국공군 해커톤** | **정보화기획참모부장상(총 180여팀 참가 중 9위, 팀장)** | [기사](https://n.news.naver.com/mnews/article/001/0013559028?sid=100) |
+| **2024 단국대학교 해커톤 경진대회** | **최우수상(팀장)** |  |
+| **2024 Tmax Academy Project** | **최우수상(팀장)** |  |
 ### 정보통신기획평가원 SW창업공모전 입상(팀장)
 ### [2022 영남권 공군창업경진대회 대상(팀장)](https://n.news.naver.com/mnews/article/015/0004703563?sid=100)
 ### [2022 공군창업경진대회 인사참모부장상(총 240여팀 참가 중 10위, 팀장)](https://n.news.naver.com/mnews/article/015/0004709507?sid=100)
@@ -40,6 +49,7 @@
 | **Roast Studio** | 개인 입맛 분석 AI 모델에 따른 원두 맞춤 추천 서비스 및 원두 판매 이커머스 플랫폼 | [보기](https://sunny-whitefish-5a5.notion.site/AI-15b2d83106ae81dbb9f5d7b8036de7bc) |
 | **나무** | 생성형 AI 기반 부동산 계약서 검토 및 관련 정보 제공 서비스 | [보기](https://sunny-whitefish-5a5.notion.site/AI-15b2d83106ae8158bf72c6cdf39cd6e1) |
 | **딩글** | 주파수 분석 및 포즈 트래킹을 통한 스마트 아이 모니터링 시스템 | [보기](https://sunny-whitefish-5a5.notion.site/15b2d83106ae8135babbc222a12176d7) |
+
 ### [Samsung Tech Blog](https://techblog.samsung.com/) 집필 및 기고 2건
 ### 1) [Generative AI: Ploneering the Monile and Wearable Feontier, How Open Source Empowers Organizations Review](https://techblog.samsung.com/blog/article/45)
 ### 2) [Smart and Secure On-Device AI Technology](https://techblog.samsung.com/blog/article/52)
