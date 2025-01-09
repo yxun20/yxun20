@@ -58,8 +58,11 @@ GPA (4.18/4.5)
 | **2024 Tmax Academy Project** | **최우수상(팀장)** |  |
 ##  🌱 Certificate
 **SAMSUNG Junior Software Academy 수료**
+
 **University of New Mexico(USA) CELAC 수료 (2023.06 - 2023.08, 🇺🇸)**
+
 **Kickstart asia 창업 교육 수료**
+
 **중소벤처기업부 스타트업 창업 인재 캠프 수료**
 ## 🖳 Project
 | 프로젝트명 | 설명 | 보기 |
