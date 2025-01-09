@@ -7,18 +7,40 @@
 ## :mortar_board: Education
 ### 단국대학교 모바일시스템공학과 (2020 - ) GPA (4.18/4.5)
 ##  :clipboard: Experience
-### SAMSUNG Junior Software Academy 수료
-### 단국대학교 소프트웨어美 플러스(SWUP+) 창업팀 모들 팀장 (2020)
-### 대한민국 공군 보안체계관리특기병 복무(2021 - 2022)
-### 2022 [국방스타트업챌린지 공군 대표팀](https://n.news.naver.com/mnews/article/008/0004756870?sid=102)(팀장) 선발 (2022 도전 K-스타트업 산하 대회)
-### [한국지도자육성장학재단](https://www.kosffl.or.kr/communication/newsletter?page=view&id=5097) 54기 장학생(전국 각 대학교당 2명의 추천인들 중 100명의 장학생에 선정)
-### 단국대학교 창업지원단 창업팀 팀장
-### [SAMSUNG Open Source Companions](https://opensource.samsung.com/community/companions/companionsMemberList) 5기
-### TMAX ACADEMY TABA 6기
-### 한국공학한림원 [차세대 공학리더](https://www.naekyehs.org/) 선정
-### [Samsung Developer Conference Korea 2024](https://www.sdc-korea.com/session/SN2024101800031) Session Presenter - Opensource Session
-### Undergraduate Researcher Student, Intelligent Mobile Computing Lab (2024–)
-### TTA 한국정보통신기술협회 글로벌소프트웨어융합인증팀 인턴 (2025.01-)
+`2020`
+**단국대학교 소프트웨어 중심사업단 창업팀 모들 팀장**
+
+`2021-2022`
+**대한민국 공군 보안체계관리특기병 복무**
+
+`2022`
+**국방스타트업챌린지 공군 대표팀(팀장) 선발**
+(2022 도전 K-스타트업 산하 대회) [뉴스 기사](https://n.news.naver.com/mnews/article/008/0004756870?sid=102)
+
+`2024-`
+**한국지도자육성장학재단 54기 장학생**
+(전국 각 대학교당 2명의 추천인들 중 100명의 장학생에 선정) [인터뷰 링크](https://www.kosffl.or.kr/communication/newsletter?page=view&id=5097)
+
+`2024`
+**단국대학교 창업지원단 창업팀 팀장**
+
+`2024`
+**SAMSUNG Open Source Companions 5기**
+[Link](https://opensource.samsung.com/community/companions/companionsMemberList)
+
+`2024`
+**TMAX ACADEMY TABA 6기**
+
+`2024`
+**Samsung Developer Conference Korea 2024 Session Presenter - Opensource Session**
+[Link](https://www.sdc-korea.com/session/SN2024101800031)
+
+`2024-`
+**Undergraduate Researcher Student, Intelligent Mobile Computing Lab**
+
+`2025-`
+**TTA 한국정보통신기술협회 글로벌소프트웨어융합인증팀 인턴**
+
 ##  🏆 Awards
 | 대회 명 | 상훈 | 뉴스 기사 |
 |------------|------|--------|
@@ -27,6 +49,7 @@
 | **2022 공군창업경진대회** | **인사참모부장상(총 240여팀 참가 중 10위, 팀장)** | [기사 링크](https://n.news.naver.com/mnews/article/015/0004709507?sid=100) |
 | **2022 도전 K-스타트업 국방부리그** | **본선 진출(팀장)**| [기사 링크](https://kookbang.dema.mil.kr/newsWeb/20220812/16/BBSMSTR_000000010021/view.do) |
 | **2022 대한민국공군 해커톤** | **정보화기획참모부장상(총 180여팀 참가 중 9위, 팀장)** | [기사 링크](https://n.news.naver.com/mnews/article/001/0013559028?sid=100) |
+| **한국공학한림원** | **차세대 공학리더 선정** | [링크](https://www.naekyehs.org/) |
 | **2024 단국대학교 해커톤 경진대회** | **최우수상(팀장)** |  |
 | **2024 Tmax Academy Project** | **최우수상(팀장)** |  |
 ##  🌱 Certificate
@@ -105,6 +128,18 @@ Here are some ideas to get you started:
 ### [2022 대한민국공군 해커톤 정보화기획참모부장상(총 180여팀 참가 중 9위, 팀장)](https://n.news.naver.com/mnews/article/001/0013559028?sid=100)
 ### 2024 단국대학교 해커톤 경진대회 최우수상(팀장)
 ### 2024 Tmax Academy Project 최우수상(팀장)
+### SAMSUNG Junior Software Academy 수료
+### 단국대학교 소프트웨어美 플러스(SWUP+) 창업팀 모들 팀장 (2020)
+### 대한민국 공군 보안체계관리특기병 복무(2021 - 2022)
+### 2022 [국방스타트업챌린지 공군 대표팀](https://n.news.naver.com/mnews/article/008/0004756870?sid=102)(팀장) 선발 (2022 도전 K-스타트업 산하 대회)
+### [한국지도자육성장학재단](https://www.kosffl.or.kr/communication/newsletter?page=view&id=5097) 54기 장학생(전국 각 대학교당 2명의 추천인들 중 100명의 장학생에 선정)
+### 단국대학교 창업지원단 창업팀 팀장
+### [SAMSUNG Open Source Companions](https://opensource.samsung.com/community/companions/companionsMemberList) 5기
+### TMAX ACADEMY TABA 6기
+### 한국공학한림원 [차세대 공학리더](https://www.naekyehs.org/) 선정
+### [Samsung Developer Conference Korea 2024](https://www.sdc-korea.com/session/SN2024101800031) Session Presenter - Opensource Session
+### Undergraduate Researcher Student, Intelligent Mobile Computing Lab (2024–)
+### TTA 한국정보통신기술협회 글로벌소프트웨어융합인증팀 인턴 (2025.01-)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
