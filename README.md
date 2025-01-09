@@ -63,7 +63,7 @@ GPA (4.18/4.5)
 
 **중소벤처기업부 스타트업 창업 인재 캠프 수료**
 ## 🖳 Project
-**진행 프로젝트**
+### 진행 프로젝트
 | 프로젝트명 | 설명 | 보기 |
 |------------|------|--------|
 | **모들** | 부동산 검색 및 상권 분석 서비스 | [보기](https://sunny-whitefish-5a5.notion.site/15b2d83106ae81bcbfdaef1db3f76f5b) |
@@ -74,7 +74,7 @@ GPA (4.18/4.5)
 | **딩글** | 주파수 분석 및 포즈 트래킹을 통한 스마트 아이 모니터링 시스템 | [보기](https://sunny-whitefish-5a5.notion.site/15b2d83106ae8135babbc222a12176d7) |
 <br>
 
-**[Samsung Tech Blog](https://techblog.samsung.com/) 집필 및 기고 2건**
+### [Samsung Tech Blog](https://techblog.samsung.com/) 집필 및 기고 2건
 | 기사명 | 출처 | 보기 |
 |------------|------|--------|
 | **Generative AI: Ploneering the Monile and Wearable Feontier Review** | Samsung Tech Blog, September 19, 2024 | [보기](https://techblog.samsung.com/blog/article/45) |
