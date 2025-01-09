@@ -5,7 +5,8 @@
  <br/>
 
 ## :mortar_board: Education
-### 단국대학교 모바일시스템공학과 (2020 - ) GPA (4.18/4.5)
+### 단국대학교 모바일시스템공학과 (2020 - ) 
+GPA (4.18/4.5)
 ##  :clipboard: Experience
 `2020`
 **단국대학교 소프트웨어 중심사업단 창업팀 모들 팀장**
@@ -20,6 +21,9 @@
 `2024-`
 **한국지도자육성장학재단 54기 장학생**
 (전국 각 대학교당 2명의 추천인들 중 100명의 장학생에 선정) [인터뷰 링크](https://www.kosffl.or.kr/communication/newsletter?page=view&id=5097)
+
+`2024-`
+**한국공학한림원 YEHS 준회원**
 
 `2024`
 **단국대학교 창업지원단 창업팀 팀장**
@@ -53,9 +57,10 @@
 | **2024 단국대학교 해커톤 경진대회** | **최우수상(팀장)** |  |
 | **2024 Tmax Academy Project** | **최우수상(팀장)** |  |
 ##  🌱 Certificate
-### University of New Mexico(USA) CELAC 수료 (2023.06 - 2023.08, 🇺🇸)
-### Kickstart asia 창업 교육 수료
-### 중소벤처기업부 스타트업 창업 인재 캠프 수료
+**SAMSUNG Junior Software Academy 수료**
+**University of New Mexico(USA) CELAC 수료 (2023.06 - 2023.08, 🇺🇸)**
+**Kickstart asia 창업 교육 수료**
+**중소벤처기업부 스타트업 창업 인재 캠프 수료**
 ## 🖳 Project
 | 프로젝트명 | 설명 | 보기 |
 |------------|------|--------|
