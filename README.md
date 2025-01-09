@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9be7ff,100:86a8e7&height=190&section=header&text=YeongJun's%20Github&fontSize=48&fontColor=5bc8fa&fontAlignY=40&animation=twinkling)
 ## 안녕하세요 성영준입니다. 👋
+<br>
 
 ## :mortar_board: Education
 **단국대학교 모바일시스템공학과 (2020 - )** 
@@ -70,6 +71,7 @@ GPA (4.18/4.5)
 | **Roast Studio** | 개인 입맛 분석 AI 모델에 따른 원두 맞춤 추천 서비스 및 원두 판매 이커머스 플랫폼 | [보기](https://sunny-whitefish-5a5.notion.site/AI-15b2d83106ae81dbb9f5d7b8036de7bc) |
 | **나무** | 생성형 AI 기반 부동산 계약서 검토 및 관련 정보 제공 서비스 | [보기](https://sunny-whitefish-5a5.notion.site/AI-15b2d83106ae8158bf72c6cdf39cd6e1) |
 | **딩글** | 주파수 분석 및 포즈 트래킹을 통한 스마트 아이 모니터링 시스템 | [보기](https://sunny-whitefish-5a5.notion.site/15b2d83106ae8135babbc222a12176d7) |
+<br>
 
 **[Samsung Tech Blog](https://techblog.samsung.com/) 집필 및 기고 2건**
 | 기사명 | 출처 | 보기 |
