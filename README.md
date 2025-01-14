@@ -42,6 +42,7 @@ GPA (4.18/4.5)
 
 `2024-`
 **Undergraduate Researcher Student, Intelligent Mobile Computing Lab**
+[Link](https://sites.google.com/dankook.ac.kr/imsl/home)
 
 `2025-`
 **TTA 한국정보통신기술협회 글로벌소프트웨어융합인증팀 인턴**
