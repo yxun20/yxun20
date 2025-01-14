@@ -20,8 +20,8 @@ GPA (4.18/4.5)
 (2022 도전 K-스타트업 산하 대회) [뉴스 기사](https://n.news.naver.com/mnews/article/008/0004756870?sid=102)
 
 `2024-`
-**한국지도자육성장학재단 54기 장학생**
-(전국 각 대학교당 2명의 추천인들 중 100명의 장학생에 선정) [인터뷰 링크](https://www.kosffl.or.kr/communication/newsletter?page=view&id=5097)
+**한국지도자육성장학재단 한지회 54기 회원**
+[인터뷰 링크](https://www.kosffl.or.kr/communication/newsletter?page=view&id=5097)
 
 `2024-`
 **한국공학한림원 YEHS junior 회원**
@@ -46,7 +46,7 @@ GPA (4.18/4.5)
 
 `2025-`
 **TTA 한국정보통신기술협회 글로벌소프트웨어융합인증팀 인턴**
-
+한국지도자육성장학재단 54기 장학생 (전국 각 대학교당 2명의 추천인들 중 100명의 장학생에 선정)
 ##  🏆 Awards
 | 대회 명 | 상훈 | 뉴스 기사 |
 |------------|------|--------|
@@ -55,6 +55,7 @@ GPA (4.18/4.5)
 | **2022 공군창업경진대회** | **인사참모부장상(총 240여팀 참가 중 10위, 팀장)** | [기사 링크](https://n.news.naver.com/mnews/article/015/0004709507?sid=100) |
 | **2022 도전 K-스타트업 국방부리그** | **본선 진출(팀장)**| [기사 링크](https://kookbang.dema.mil.kr/newsWeb/20220812/16/BBSMSTR_000000010021/view.do) |
 | **2022 대한민국공군 해커톤** | **정보화기획참모부장상(총 180여팀 참가 중 9위, 팀장)** | [기사 링크](https://n.news.naver.com/mnews/article/001/0013559028?sid=100) |
+| **한국지도자육성장학재단 54기 장학생 선정** | **전국 각 대학교당 2명의 추천인들 중 100명의 장학생에 선정** |  |
 | **한국공학한림원** | **차세대 공학리더 선정** | [링크](https://www.naekyehs.org/) |
 | **2024 단국대학교 해커톤 경진대회** | **최우수상(팀장)** |  |
 | **2024 Tmax Academy Project** | **최우수상(팀장)** |  |
@@ -157,6 +158,9 @@ Here are some ideas to get you started:
 ### [Samsung Tech Blog](https://techblog.samsung.com/) 집필 및 기고 2건
 ### 1) [Generative AI: Ploneering the Monile and Wearable Feontier, How Open Source Empowers Organizations Review](https://techblog.samsung.com/blog/article/45)
 ### 2) [Smart and Secure On-Device AI Technology](https://techblog.samsung.com/blog/article/52)
+`2024-`
+**한국지도자육성장학재단 54기 장학생**
+(전국 각 대학교당 2명의 추천인들 중 100명의 장학생에 선정) [인터뷰 링크](https://www.kosffl.or.kr/communication/newsletter?page=view&id=5097)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
