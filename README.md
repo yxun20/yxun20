@@ -24,7 +24,7 @@ GPA (4.18/4.5)
 (전국 각 대학교당 2명의 추천인들 중 100명의 장학생에 선정) [인터뷰 링크](https://www.kosffl.or.kr/communication/newsletter?page=view&id=5097)
 
 `2024-`
-**한국공학한림원 YEHS 준회원**
+**한국공학한림원 YEHS junior 회원**
 
 `2024`
 **단국대학교 창업지원단 창업팀 팀장**
