@@ -31,7 +31,7 @@ GPA (4.18/4.5)
 
 `2024`
 **SAMSUNG Open Source Companions 5기**
-[Link](https://opensource.samsung.com/community/companions/companionsMemberList)| [기사 링크](https://n.news.naver.com/mnews/article/138/0002186692?sid=105)
+[Link](https://opensource.samsung.com/community/companions/companionsMemberList) | [기사 링크](https://n.news.naver.com/mnews/article/138/0002186692?sid=105)
 
 `2024`
 **TMAX ACADEMY TABA 6기**
