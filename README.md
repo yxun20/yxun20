@@ -17,7 +17,7 @@ GPA (4.18/4.5)
 
 `2022`
 **국방스타트업챌린지 공군 대표팀(팀장) 선발**
-(2022 도전 K-스타트업 산하 대회) [뉴스 기사](https://n.news.naver.com/mnews/article/008/0004756870?sid=102)
+(2022 도전 K-스타트업 산하 대회) [기사 링크](https://n.news.naver.com/mnews/article/008/0004756870?sid=102)
 
 `2024-`
 **한국지도자육성장학재단 한지회 54기 회원**
@@ -31,7 +31,7 @@ GPA (4.18/4.5)
 
 `2024`
 **SAMSUNG Open Source Companions 5기**
-[Link](https://opensource.samsung.com/community/companions/companionsMemberList)
+[Link](https://opensource.samsung.com/community/companions/companionsMemberList) [기사 링크](https://www.ddaily.co.kr/page/view/2024112116181868456)
 
 `2024`
 **TMAX ACADEMY TABA 6기**
