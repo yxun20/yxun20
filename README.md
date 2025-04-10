@@ -37,22 +37,22 @@ GPA (4.18/4.5)
 **TMAX ACADEMY TABA 6기**
 
 `2024`
-**Samsung Developer Conference Korea 2024 Session Presenter - Opensource Session**
+**Samsung Developer Conference Korea 2024 - Opensource Session 연사**
 [Link](https://www.sdc-korea.com/session/SN2024101800031)
 
 `2025-`
-**Undergraduate Researcher Student, Intelligent Mobile Computing Lab**
+**Intelligent Mobile Computing Lab 학부연구생**
 [Link](https://sites.google.com/dankook.ac.kr/imsl/home)
 
 `2025`
-**TTA 한국정보통신기술협회 글로벌소프트웨어융합인증팀 인턴**
+**TTA 한국정보통신기술협회 글로벌소프트웨어융합인증팀 인턴 (Front-end Developer)**
 
 `2025`
-**제로톤 오거나이저 팀장**
+**제로톤 주최 오거나이저 팀장**
 [Link](https://zerothon-2025.github.io)
 
 `2025`
-**구름톤 유니브 단국대학교 부대표**
+**KAKAO X 구름 구름톤 유니브 단국대학교 부대표**
 
 ##  🏆 Awards
 | 대회 명 | 상훈 | 뉴스 기사 |
