@@ -52,7 +52,7 @@ GPA (4.18/4.5)
 [Link](https://zerothon-2025.github.io)
 
 `2025`
-**KAKAO X 구름 구름톤 유니브 단국대학교 부대표**
+**kakao X groom 구름톤 유니브 단국대학교 부대표**
 
 ##  🏆 Awards
 | 대회 명 | 상훈 | 뉴스 기사 |
