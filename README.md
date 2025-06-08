@@ -65,6 +65,8 @@ GPA (4.18/4.5)
 | **한국공학한림원** | **차세대 공학리더 선정** | [링크](https://www.naekyehs.org/) |
 | **2024 단국대학교 해커톤 경진대회** | **최우수상(팀장)** |  |
 | **2024 Tmax Academy Project** | **최우수상(팀장)** |  |
+| **2025 단국대학교 포트폴리오 경진대회** | **대상** |  |
+| **2025 디지털 경진대회 in 단국대학교** | **1위(팀장)** |  |
 ##  🌱 Certificate
 **SAMSUNG Junior Software Academy 수료**
 
@@ -82,7 +84,6 @@ GPA (4.18/4.5)
 | **공군 사격 도우미** | 데이터 분석 통한 사격 훈련 정교 맞춤 피드백 솔루션 | [보기](https://sunny-whitefish-5a5.notion.site/15b2d83106ae8162b600d8fb8278ed66) |
 | **Roast Studio** | 개인 입맛 분석 AI 모델에 따른 원두 맞춤 추천 서비스 및 원두 판매 이커머스 플랫폼 | [보기](https://sunny-whitefish-5a5.notion.site/AI-15b2d83106ae81dbb9f5d7b8036de7bc) |
 | **나무** | 생성형 AI 기반 부동산 계약서 검토 및 관련 정보 제공 서비스 | [보기](https://sunny-whitefish-5a5.notion.site/AI-15b2d83106ae8158bf72c6cdf39cd6e1) |
-| **딩글** | 주파수 분석 및 포즈 트래킹을 통한 스마트 아이 모니터링 시스템 | [보기](https://sunny-whitefish-5a5.notion.site/15b2d83106ae8135babbc222a12176d7) |
 | **노른자** | STT 기반 자동 Task 생성과 인터랙티브 기여도 지표 시각화 협업 플랫폼 | [보기](https://www.notion.so/1792d83106ae8024a4ffcafb4fae136e) |
 | **TTA 사내 서비스** | TTA 사내, 결함 Report DB 서비스 플랫폼 | [보기](https://github.com/yxun20/TTA-Report-View-Platform) |
 ### [Samsung Tech Blog](https://techblog.samsung.com/) 집필 및 기고 2건
@@ -114,7 +115,8 @@ GPA (4.18/4.5)
 **yxun20/yxun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👋 Welcome my github profile !
- 
+ | **딩글** | 주파수 분석 및 포즈 트래킹을 통한 스마트 아이 모니터링 시스템 | [보기](https://sunny-whitefish-5a5.notion.site/15b2d83106ae8135babbc222a12176d7) |
+
 🎓 Education
 단국대학교 모바일시스템공학과 (2020 - )
 📋 Experience
