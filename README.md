@@ -86,6 +86,7 @@ GPA (4.18/4.5)
 | **나무** | 생성형 AI 기반 부동산 계약서 검토 및 관련 정보 제공 서비스 | [보기](https://sunny-whitefish-5a5.notion.site/AI-15b2d83106ae8158bf72c6cdf39cd6e1) |
 | **노른자** | STT 기반 자동 Task 생성과 인터랙티브 기여도 지표 시각화 협업 플랫폼 | [보기](https://www.notion.so/1792d83106ae8024a4ffcafb4fae136e) |
 | **TTA 사내 서비스** | TTA 사내, 결함 Report DB 서비스 플랫폼 | [보기](https://github.com/yxun20/TTA-Report-View-Platform) |
+| **FISHER** | Fraudulent Incoming Speech Handling and Event Recorder | [보기](https://github.com/yxun20/FISHER) |
 ### [Samsung Tech Blog](https://techblog.samsung.com/) 집필 및 기고 2건
 | 기사명 | 출처 | 보기 |
 |------------|------|--------|
