@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9be7ff,100:86a8e7&height=190&section=header&text=YeongJun's%20Github&fontSize=48&fontColor=5bc8fa&fontAlignY=40&animation=twinkling)
 ## 안녕하세요 성영준입니다. 👋
-<a href="https://brunch.co.kr/@dudwns11233" target="blank">
+<a href="https://brunch.co.kr/@yxun" target="blank">
   <img src="https://img.shields.io/badge/Brunch%20Story%20Writer-00c792?style=flat&logo=bookstack&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="mailto:s.yxun20@gmail.com"> 
