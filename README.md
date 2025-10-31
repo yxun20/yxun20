@@ -16,7 +16,7 @@ GPA (4.18/4.5)
 `2025.01-2025.02`
 **TTA 한국정보통신기술협회 글로벌소프트웨어융합인증팀 인턴**
 
-'2025.11-'
+`2025.11-`
 **PwC Consulting Tech 본부 Edge 센터**
 
 ##  :clipboard: Experience
@@ -61,8 +61,6 @@ GPA (4.18/4.5)
 ##  🌱 Certificate
 **SAMSUNG Junior Software Academy 수료**
 
-**단국대학교 소프트웨어 중심사업단 창업팀 모들 팀장**
-
 **University of New Mexico(USA) CELAC 수료 (2023.06 - 2023.08, 🇺🇸)**
 
 **TMAX ACADEMY TABA 6기**
@@ -88,7 +86,7 @@ GPA (4.18/4.5)
 **Samsung Developer Conference Korea 2024 - Opensource Session 연사**
 [Link](https://www.sdc-korea.com/session/SN2024101800031)
 
-'2025'
+`2025`
 **SK AI SUMMIT 2025 - EXHIBITION Session Project 전시**
 [Link](https://www.skaisummit.com/exhibition)
 
@@ -102,7 +100,6 @@ GPA (4.18/4.5)
 | **Generative AI: Ploneering the Monile and Wearable Feontier Review** | Samsung Tech Blog, September 19, 2024 | [보기](https://techblog.samsung.com/blog/article/45) |
 | **Smart and Secure On-Device AI Technology Review** | Samsung Tech Blog, December 11, 2024 | [보기](https://techblog.samsung.com/blog/article/52) |
 
-## [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s_yxun)](https://solved.ac/s_yxun/)
 ## 🧑‍💻 Tech Stack
 
 ### Language
