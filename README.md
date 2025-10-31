@@ -11,16 +11,17 @@
 ## :mortar_board: Education
 **단국대학교 모바일시스템공학과 (2020 - )** 
 GPA (4.18/4.5)
+
+##  💼 Career
+`2025.01-2025.02`
+**TTA 한국정보통신기술협회 글로벌소프트웨어융합인증팀 인턴**
+'2025.11-'
+**PwC Consulting Tech 본부 Edge 센터**
+
 ##  :clipboard: Experience
-`2020`
-**단국대학교 소프트웨어 중심사업단 창업팀 모들 팀장**
 
 `2021-2022`
 **대한민국 공군 보안체계관리특기병 복무**
-
-`2022`
-**국방스타트업챌린지 공군 대표팀(팀장) 선발**
-(2022 도전 K-스타트업 산하 대회) [기사 링크](https://n.news.naver.com/mnews/article/008/0004756870?sid=102)
 
 `2024-`
 **한국지도자육성장학재단 한지회 54기 회원**
@@ -30,29 +31,12 @@ GPA (4.18/4.5)
 **한국공학한림원 YEHS junior 회원**
 
 `2024`
-**단국대학교 창업지원단 창업팀 팀장**
-
-`2024`
 **SAMSUNG Open Source Companions 5기**
 [Link](https://opensource.samsung.com/community/companions/companionsMemberList) | [기사 링크](https://n.news.naver.com/mnews/article/138/0002186692?sid=105)
-
-`2024`
-**TMAX ACADEMY TABA 6기**
-
-`2024`
-**Samsung Developer Conference Korea 2024 - Opensource Session 연사**
-[Link](https://www.sdc-korea.com/session/SN2024101800031)
 
 `2025-`
 **Intelligent Mobile Computing Lab 학부연구생**
 [Link](https://sites.google.com/dankook.ac.kr/imsl/home)
-
-`2025`
-**TTA 한국정보통신기술협회 글로벌소프트웨어융합인증팀 인턴 (Front-end Developer)**
-
-`2025`
-**제로톤 주최 오거나이저 팀장**
-[Link](https://zerothon-2025.github.io)
 
 `2025`
 **kakao X groom 구름톤 유니브 단국대학교 부대표**
@@ -76,11 +60,13 @@ GPA (4.18/4.5)
 ##  🌱 Certificate
 **SAMSUNG Junior Software Academy 수료**
 
+**단국대학교 소프트웨어 중심사업단 창업팀 모들 팀장**
+
 **University of New Mexico(USA) CELAC 수료 (2023.06 - 2023.08, 🇺🇸)**
 
-**Kickstart asia 창업 교육 수료**
+**TMAX ACADEMY TABA 6기**
 
-**중소벤처기업부 스타트업 창업 인재 캠프 수료**
+
 ## 🖳 Project
 ### 진행 프로젝트
 | 프로젝트명 | 설명 | 보기 |
@@ -95,6 +81,20 @@ GPA (4.18/4.5)
 | **TTA 사내 서비스** | TTA 사내, 결함 Report DB 서비스 플랫폼 | [보기](https://github.com/yxun20/TTA-Report-View-Platform) |
 | **FISHER** | Fraudulent Incoming Speech Handling and Event Recorder | [보기](https://github.com/yxun20/FISHER) |
 | **KITTY** | Keep It Talk-safe To Youth  | [보기](https://github.com/yxun20/KITTY) |
+
+##  🚀 기술 공유
+`2024`
+**Samsung Developer Conference Korea 2024 - Opensource Session 연사**
+[Link](https://www.sdc-korea.com/session/SN2024101800031)
+
+'2025'
+**SK AI SUMMIT 2025 - EXHIBITION Session Project 전시**
+[Link](https://www.skaisummit.com/exhibition)
+
+`2025`
+**제로톤 주최 오거나이저 팀장**
+[Link](https://zerothon-2025.github.io)
+
 ### [Samsung Tech Blog](https://techblog.samsung.com/) 집필 및 기고 2건
 | 기사명 | 출처 | 보기 |
 |------------|------|--------|
@@ -193,3 +193,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
