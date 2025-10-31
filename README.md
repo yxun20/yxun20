@@ -20,6 +20,8 @@ GPA (4.18/4.5)
 **PwC Consulting Tech 본부 Edge 센터**
 
 ##  :clipboard: Experience
+`2020`
+**단국대학교 소프트웨어 중심사업단 창업팀 모들 팀장**
 
 `2021-2022`
 **대한민국 공군 보안체계관리특기병 복무**
@@ -34,6 +36,9 @@ GPA (4.18/4.5)
 `2024`
 **SAMSUNG Open Source Companions 5기**
 [Link](https://opensource.samsung.com/community/companions/companionsMemberList) | [기사 링크](https://n.news.naver.com/mnews/article/138/0002186692?sid=105)
+
+`2024`
+**단국대학교 창업지원단 창업팀 팀장**
 
 `2025-`
 **Intelligent Mobile Computing Lab 학부연구생**
