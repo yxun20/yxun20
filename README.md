@@ -94,7 +94,8 @@ GPA (4.18/4.5)
 **제로톤 주최 오거나이저 팀장**
 [Link](https://zerothon-2025.github.io)
 
-### [Samsung Tech Blog](https://techblog.samsung.com/) 집필 및 기고 2건
+**Samsung Tech Blog 집필 및 기고 2건**
+[Samsung Tech Blog](https://techblog.samsung.com/)
 | 기사명 | 출처 | 보기 |
 |------------|------|--------|
 | **Generative AI: Ploneering the Monile and Wearable Feontier Review** | Samsung Tech Blog, September 19, 2024 | [보기](https://techblog.samsung.com/blog/article/45) |
