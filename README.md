@@ -17,7 +17,7 @@ GPA (4.2/4.5)
 **TTA 한국정보통신기술협회 글로벌소프트웨어융합인증팀 인턴**
 
 `2025.11-`
-**프라이스워터하우스쿠퍼스(PwC) Consulting Tech 본부 Edge 센터**
+**프라이스워터하우스쿠퍼스(PwC) Consulting Tech 본부**
 
 ##  :clipboard: Experience
 `2020`
