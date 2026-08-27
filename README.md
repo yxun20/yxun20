@@ -20,7 +20,7 @@ GPA (4.2/4.5)
 **프라이스워터하우스쿠퍼스(PwC) Consulting Tech 본부**
 
 `2026.08-`
-**DB Inc. DataCenter DBA**
+**DB Inc. DB손해보험 DataCenter DBA**
 
 ##  :clipboard: Experience
 `2020`
